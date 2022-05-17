@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Turney Kuy</string>
+    <string name="tittle">Turney\nKuy</string>
+    <string name="signIN">Sign-In</string>
+    <string name="signUp">Sign-Up</string>
+    <string name="deskripsi">Create your game competition and share it with others</string>
+    <string name="create_account">CREATE\nACCOUNT</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="nama_akun">Nama Seseorang</string>
+    <string name="tanggal">Rabu, 20 Maret 2022</string>
+    <string name="text_content">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of ype and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    <string name="kategori">Mobile Legends</string>
+    <string name="notification">Notification</string>
+    <string name="text_notification"><b>Yusuf Abidin</b> register yout event</string>
+    <string name="save">Save</string>
+    <string name="change_image">Change Image</string>
+</resources>
